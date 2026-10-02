@@ -1,0 +1,14 @@
+# 원본·캐시 데이터 (data/README.md 참고)
+data/raw/
+data/processed/
+*.mat
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store
